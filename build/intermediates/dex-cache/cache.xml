@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/zhengting/tool/android-sdk_r24.1.2-linux/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/zhengting/sourcecode/Github/LuckyMoney/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1_e541e47e39fea590eaa70c292e810eee4e79980f.jar" />
+    </item>
+    <item
+        jar="/zhengting/sourcecode/Github/LuckyMoney/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/zhengting/sourcecode/Github/LuckyMoney/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_ea34d7641d600561a5c32032ac78b9c8d6cd82f5.jar" />
+    </item>
+    <item
+        jar="/zhengting/sourcecode/Github/LuckyMoney/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/zhengting/sourcecode/Github/LuckyMoney/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_36a0c8185d6e8921b9224d43b6e00e837f2d7a56.jar" />
+    </item>
+    <item
+        jar="/zhengting/sourcecode/Github/LuckyMoney/app/libs/FlurryAnalytics-5.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee10ddd768ed27510e47b14a4360d5646a6d853">
+        <dex dex="/zhengting/sourcecode/Github/LuckyMoney/app/build/intermediates/pre-dexed/release/FlurryAnalytics-5.1.0_2e787141632627dfc27cc2dead6f8dc166dca8ae.jar" />
+    </item>
+    <item
+        jar="/zhengting/sourcecode/Github/LuckyMoney/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/zhengting/sourcecode/Github/LuckyMoney/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_03f308f2a46802a5898238ea999aabfbf5fa8231.jar" />
+    </item>
+
+</items>
